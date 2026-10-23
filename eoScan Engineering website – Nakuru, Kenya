@@ -20,6 +20,11 @@ GeoScan-Engineering-Updated/
     ├── geophysical-field-team.jpg
     ├── outcrop-geological-mapping.jpg
     ├── roadside-geophysical-investigation.jpg
+name = "geoscanengineering"
+compatibility_date = "2026-10-23"
+
+[assets]
+directory = "."
     ├── rock-hammer-field-geology.jpg
     ├── rock-outcrop-assessment.jpg
     ├── rock-testing-laboratory.jpg
