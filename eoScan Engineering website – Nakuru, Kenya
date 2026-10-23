@@ -1,4 +1,4 @@
-geoscanengineering
+GeoScan-Engineering-Updated/
 │
 ├── index.html
 ├── services.html
@@ -9,14 +9,18 @@ geoscanengineering
 ├── style.css
 │
 └── images/
-      ├── field-geophysical-survey.jpg
-      ├── roadside-geotechnical-investigation.jpg
-      ├── borehole drilling-rig-field-supervision.jpg
-      ├── borehole drilling in Nakuru.jpg
-      ├── active-drilling-operation.jpg
-      ├── drilling-team-fieldwork.jpg
-      ├── geophysical-field-survey.jpg
-      ├── geophysical-field-team.jpg
-      ├── rock-testing-laboratory.jpg
-      ├── Trialpit-assessment.jpg
-      └── urban-geophysical-investigation.jpg
+    ├── active-drilling-operation.jpg
+    ├── drilling-equipment-closeup.jpg
+    ├── drilling-rig-field-supervision.jpg
+    ├── drilling-rig-site-operations.jpg
+    ├── drilling-site-overview.jpg
+    ├── drilling-team-fieldwork.jpg
+    ├── field-geophysical-survey.jpg
+    ├── geophysical-field-survey.jpg
+    ├── geophysical-field-team.jpg
+    ├── outcrop-geological-mapping.jpg
+    ├── roadside-geophysical-investigation.jpg
+    ├── rock-hammer-field-geology.jpg
+    ├── rock-outcrop-assessment.jpg
+    ├── rock-testing-laboratory.jpg
+    └── urban-geophysical-investigation.jpg
