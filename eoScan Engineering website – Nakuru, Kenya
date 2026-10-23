@@ -1,4 +1,4 @@
-GeoScan-Engineering-Updated/
+GeoScan-Engineering/
 │
 ├── index.html
 ├── services.html
@@ -7,25 +7,27 @@ GeoScan-Engineering-Updated/
 ├── about.html
 ├── contact.html
 ├── style.css
+├── wrangler.toml
+├── README.txt
 │
 └── images/
-    ├── active-drilling-operation.jpg
-    ├── drilling-equipment-closeup.jpg
+    ├── field-geophysical-survey.jpg
     ├── drilling-rig-field-supervision.jpg
     ├── drilling-rig-site-operations.jpg
-    ├── drilling-site-overview.jpg
+    ├── active-drilling-operation.jpg
     ├── drilling-team-fieldwork.jpg
-    ├── field-geophysical-survey.jpg
     ├── geophysical-field-survey.jpg
-    ├── geophysical-field-team.jpg
-    ├── outcrop-geological-mapping.jpg
-    ├── roadside-geophysical-investigation.jpg
-name = "geoscanengineering"
-compatibility_date = "2026-10-23"
-
-[assets]
-directory = "."
-    ├── rock-hammer-field-geology.jpg
-    ├── rock-outcrop-assessment.jpg
     ├── rock-testing-laboratory.jpg
-    └── urban-geophysical-investigation.jpg
+    ├── geophysical-field-team.jpg
+    ├── rock-outcrop-assessment.jpg
+    ├── roadside-geophysical-investigation.jpg
+    ├── urban-geophysical-investigation.jpg
+    ├── rock-hammer-field-geology.jpg
+    ├── outcrop-geological-mapping.jpg
+    ├── drilling-equipment-closeup.jpg
+    ├── drilling-site-overview.jpg
+    │
+    ├── recent-rock-hammer-inspection.jpg
+    ├── recent-geological-outcrop-inspection.jpg
+    ├── recent-drilling-rig-operation.jpg
+    └── recent-drilling-site-overview.jpg
