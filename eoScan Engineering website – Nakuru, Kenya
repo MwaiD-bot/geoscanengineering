@@ -1,6 +1,22 @@
-index.html
-images/
-   gallery-01.jpg
-   gallery-02.jpg
-   gallery-03.jpg
-   gallery-04.jpg
+geoscanengineering
+│
+├── index.html
+├── services.html
+├── approach.html
+├── gallery.html
+├── about.html
+├── contact.html
+├── style.css
+│
+└── images/
+      ├── field-geophysical-survey.jpg
+      ├── roadside-geophysical-investigation.jpg
+      ├── drilling-rig-field-supervision.jpg
+      ├── drilling-rig-site-operations.jpg
+      ├── active-drilling-operation.jpg
+      ├── drilling-team-fieldwork.jpg
+      ├── geophysical-field-survey.jpg
+      ├── geophysical-field-team.jpg
+      ├── rock-testing-laboratory.jpg
+      ├── rock-outcrop-assessment.jpg
+      └── urban-geophysical-investigation.jpg
