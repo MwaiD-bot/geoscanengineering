@@ -1,189 +1,26 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>GeoScan Engineering | Nakuru, Kenya</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header class="container nav">
-    <a class="brand" href="index.html">
-      <div class="mark" aria-label="GeoScan Engineering logo">
-        <svg viewBox="0 0 80 80" role="img">
-          <path d="M10 47c13-10 23-10 35 0s22 10 35 0" fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round"/>
-          <path d="M10 58c13-10 23-10 35 0s22 10 35 0" fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round" opacity=".65"/>
-          <path d="M38 16h8v39h-8z" fill="currentColor"/>
-          <path d="M31 16h22l-4-8H35z" fill="currentColor"/>
-          <path d="M50 24h13l-9 13" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-          <path d="M55 27c7 1 11 5 14 11" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
-          <circle cx="58" cy="51" r="4" fill="currentColor"/>
-        </svg>
-      </div>
-      <div>
-        GeoScan Engineering
-        <small>Nakuru, Kenya</small>
-      </div>
-    </a>
-
-    <nav class="links">
-      <a href="services.html">Services</a>
-      <a href="approach.html">Approach</a>
-      <a href="gallery.html">Gallery</a>
-      <a href="about.html">About</a>
-      <a href="contact.html">Contact</a>
-    </nav>
-  </header>
-
-  <main>
-    <section class="container hero">
-      <div class="hero-copy">
-        <div class="eyebrow"><span class="dot"></span> Subsurface intelligence · Kenya</div>
-        <h1>Understand the ground.<br><span>Build with confidence.</span></h1>
-        <p class="lead">GeoScan Engineering provides integrated borehole geophysics, geotechnical investigation and soil analysis to turn subsurface evidence into practical engineering decisions.</p>
-        <div class="actions">
-          <a class="btn primary" href="contact.html">Request a site investigation</a>
-          <a class="btn secondary" href="services.html">Explore our services</a>
-        </div>
-      </div>
-
-      <div class="hero-photo">
-        <img src="images/field-geophysical-survey.jpg" alt="GeoScan field geophysical survey">
-        <div class="hero-label">Field geophysics · Site investigation · Data interpretation</div>
-      </div>
-    </section>
-
-    <div class="band">
-      <div class="container metrics">
-        <div class="metric">
-          <strong>01</strong>
-          <span>Borehole geophysics</span>
-        </div>
-        <div class="metric">
-          <strong>02</strong>
-          <span>Geotechnical surveys</span>
-        </div>
-        <div class="metric">
-          <strong>03</strong>
-          <span>Soil analysis</span>
-        </div>
-        <div class="metric">
-          <strong>360°</strong>
-          <span>Integrated interpretation</span>
-        </div>
-      </div>
-    </div>
-
-    <section class="container">
-      <div class="section-head">
-        <h2>Technical services<br>for the ground beneath.</h2>
-        <p>From field reconnaissance and geophysical acquisition to laboratory testing and engineering interpretation, we connect evidence across the investigation workflow.</p>
-      </div>
-
-      <div class="cards">
-        <article class="card">
-          <div class="icon">⌁</div>
-          <h3>Borehole Geophysical Surveys</h3>
-          <p>Downhole measurements that help characterize lithology, fractures, fluid-bearing zones and borehole conditions.</p>
-          <a class="btn secondary" href="services.html">View service →</a>
-        </article>
-
-        <article class="card">
-          <div class="icon">▦</div>
-          <h3>Geotechnical Surveys</h3>
-          <p>Ground investigations for buildings, roads and civil infrastructure, designed around project risks and design requirements.</p>
-          <a class="btn secondary" href="services.html">View service →</a>
-        </article>
-
-        <article class="card">
-          <div class="icon">◌</div>
-          <h3>Soil Analysis</h3>
-          <p>Laboratory characterization of soil materials to support classification, engineering assessment and reporting.</p>
-          <a class="btn secondary" href="services.html">View service →</a>
-        </article>
-      </div>
-    </section>
-
-    <section class="band">
-      <div class="container">
-        <div class="section-head">
-          <h2>Selected fieldwork.</h2>
-          <p>Explore field and laboratory activities from drilling, geophysical investigation, geological inspection and engineering testing.</p>
-        </div>
-
-        <div class="gallery-grid">
-          <figure class="gallery-card">
-            <img src="images/field-geophysical-survey.jpg" alt="Field Geophysical Survey" loading="lazy">
-            <figcaption>
-              <strong>Field Geophysical Survey</strong>
-              <span>Surface geophysical measurements used to investigate subsurface conditions and guide engineering or groundwater decisions.</span>
-            </figcaption>
-          </figure>
-
-          <figure class="gallery-card">
-            <img src="images/drilling-rig-field-supervision.jpg" alt="Drilling Operations & Field Supervision" loading="lazy">
-            <figcaption>
-              <strong>Drilling Operations & Field Supervision</strong>
-              <span>Field supervision alongside a drilling rig, supporting systematic observation and documentation of subsurface investigation activities.</span>
-            </figcaption>
-          </figure>
-
-          <figure class="gallery-card">
-            <img src="images/drilling-rig-site-operations.jpg" alt="Drilling Site Operations" loading="lazy">
-            <figcaption>
-              <strong>Drilling Site Operations</strong>
-              <span>Drilling equipment set up for ground investigation, with field operations coordinated around safe and efficient data collection.</span>
-            </figcaption>
-          </figure>
-
-          <figure class="gallery-card">
-            <img src="images/active-drilling-operation.jpg" alt="Active Drilling Operation" loading="lazy">
-            <figcaption>
-              <strong>Active Drilling Operation</strong>
-              <span>Active drilling with rods, circulation equipment and site controls visible during subsurface investigation.</span>
-            </figcaption>
-          </figure>
-
-          <figure class="gallery-card">
-            <img src="images/drilling-team-fieldwork.jpg" alt="Drilling Team & Site Inspection" loading="lazy">
-            <figcaption>
-              <strong>Drilling Team & Site Inspection</strong>
-              <span>Field coordination around a drilling rig, combining drilling observations with geological and engineering site assessment.</span>
-            </figcaption>
-          </figure>
-
-          <figure class="gallery-card">
-            <img src="images/geophysical-field-survey.jpg" alt="Geophysical Measurements in the Field" loading="lazy">
-            <figcaption>
-              <strong>Geophysical Measurements in the Field</strong>
-              <span>A field geophysics setup used to collect measurements that help characterize subsurface materials and possible structural variations.</span>
-            </figcaption>
-          </figure>
-        </div>
-
-        <div class="actions" style="justify-content:center">
-          <a class="btn primary" href="gallery.html">View full gallery →</a>
-        </div>
-      </div>
-    </section>
-
-    <section class="container">
-      <div class="cta">
-        <div>
-          <h2>Planning a site investigation?</h2>
-          <p>Tell us your location, project type, target depth and the decision the investigation needs to support.</p>
-        </div>
-        <a class="btn" href="mailto:info@geoscanengineering.co.ke">Request a quotation →</a>
-      </div>
-    </section>
-  </main>
-
-  <footer class="container">
-    <div>© 2026 GeoScan Engineering · Nakuru, Kenya</div>
-    <div class="contact">
-      <a href="mailto:info@geoscanengineering.co.ke">info@geoscanengineering.co.ke</a>
-      <a href="tel:+254728164666">0728 164 666</a>
-    </div>
-  </footer>
-</body>
-</html>
+geoscanengineering/
+├── public/
+│   ├── index.html
+│   ├── services.html
+│   ├── approach.html
+│   ├── gallery.html
+│   ├── about.html
+│   ├── contact.html
+│   ├── style.css
+│   └── images/
+│       ├── field-geophysical-survey.jpg
+│       ├── drilling-rig-field-supervision.jpg
+│       ├── drilling-rig-site-operations.jpg
+│       ├── active-drilling-operation.jpg
+│       ├── drilling-team-fieldwork.jpg
+│       ├── geophysical-field-survey.jpg
+│       ├── rock-testing-laboratory.jpg
+│       ├── geophysical-field-team.jpg
+│       ├── rock-outcrop-assessment.jpg
+│       ├── roadside-geophysical-investigation.jpg
+│       └── urban-geophysical-investigation.jpg
+├── package.json
+├── wrangler.jsonc
+├── .gitignore
+├── README.md
+└── .wrangler/
