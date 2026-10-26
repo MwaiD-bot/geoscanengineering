@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Contact | GeoScan Engineering</title>
-    <meta name="description" content="Contact GeoScan Engineering for geophysical, geotechnical, and engineering investigation services in Kenya." />
+    <meta name="description" content="Contact GeoScan Engineering for geophysical, geotechnical, and engineering investigation support." />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
@@ -12,10 +12,10 @@
   </head>
   <body>
     <header class="site-header">
-      <div class="container nav">
-        <a class="brand" href="index.html">
+      <div class="container nav-shell">
+        <a href="index.html" class="brand" aria-label="GeoScan Engineering home">
           <span class="brand-mark">G</span>
-          <span>GeoScan</span>
+          <span class="brand-text">GeoScan</span>
         </a>
         <nav class="main-nav" aria-label="Main navigation">
           <a href="index.html">Home</a>
@@ -29,8 +29,8 @@
     </header>
 
     <main>
-      <section class="page-hero small hero-contact">
-        <div class="container">
+      <section class="page-hero">
+        <div class="container narrow">
           <p class="eyebrow">Contact</p>
           <h1>Let’s talk about your next project.</h1>
         </div>
@@ -38,7 +38,7 @@
 
       <section class="section">
         <div class="container contact-layout">
-          <div class="contact-card">
+          <div class="contact-panel">
             <h3>Get in touch</h3>
             <ul class="contact-list">
               <li><strong>Email:</strong> hello@geoscanengineering.co.ke</li>
@@ -47,24 +47,40 @@
             </ul>
           </div>
 
-          <form class="contact-form">
+          <form id="contactForm" class="contact-form">
             <label>
-              Name
-              <input type="text" placeholder="Your full name" />
+              Full name
+              <input type="text" name="name" placeholder="Your full name" required />
             </label>
             <label>
-              Email
-              <input type="email" placeholder="you@example.com" />
+              Email address
+              <input type="email" name="email" placeholder="you@example.com" required />
             </label>
             <label>
               Company
-              <input type="text" placeholder="Organization" />
+              <input type="text" name="company" placeholder="Your organisation" />
+            </label>
+            <label>
+              Phone number
+              <input type="tel" name="phone" placeholder="+254 700 000 000" />
+            </label>
+            <label>
+              Service required
+              <select name="service">
+                <option value="">Select a service</option>
+                <option>Geophysical survey</option>
+                <option>Geotechnical investigation</option>
+                <option>Drilling supervision</option>
+                <option>Laboratory testing</option>
+                <option>Technical reporting</option>
+              </select>
             </label>
             <label>
               Project details
-              <textarea rows="5" placeholder="Tell us about your site investigation or project requirements"></textarea>
+              <textarea name="message" rows="5" placeholder="Tell us about your project or site requirements" required></textarea>
             </label>
             <button type="submit" class="button primary">Send inquiry</button>
+            <p id="formMessage" class="form-message" aria-live="polite"></p>
           </form>
         </div>
       </section>
@@ -72,10 +88,17 @@
 
     <footer class="site-footer">
       <div class="container footer-wrap">
-        <div><a class="brand footer-brand" href="index.html"><span class="brand-mark">G</span><span>GeoScan</span></a></div>
+        <div>
+          <a href="index.html" class="brand footer-brand" aria-label="GeoScan Engineering home">
+            <span class="brand-mark">G</span>
+            <span class="brand-text">GeoScan</span>
+          </a>
+        </div>
         <div><p>Engineering insight for better decisions.</p></div>
         <div><a href="contact.html">hello@geoscanengineering.co.ke</a></div>
       </div>
     </footer>
+
+    <script src="script.js"></script>
   </body>
 </html>
