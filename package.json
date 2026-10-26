@@ -1,0 +1,9 @@
+{
+  "name": "geoscan-engineering",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "python3 -m http.server 8000 --directory public",
+    "start": "python3 -m http.server 8000 --directory public"
+  }
+}

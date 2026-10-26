@@ -1,26 +1,9 @@
-geoscanengineering/
-├── public/
-│   ├── index.html
-│   ├── services.html
-│   ├── approach.html
-│   ├── gallery.html
-│   ├── about.html
-│   ├── contact.html
-│   ├── style.css
-│   └── images/
-│       ├── field-geophysical-survey.jpg
-│       ├── drilling-rig-field-supervision.jpg
-│       ├── drilling-rig-site-operations.jpg
-│       ├── active-drilling-operation.jpg
-│       ├── drilling-team-fieldwork.jpg
-│       ├── geophysical-field-survey.jpg
-│       ├── rock-testing-laboratory.jpg
-│       ├── geophysical-field-team.jpg
-│       ├── rock-outcrop-assessment.jpg
-│       ├── roadside-geophysical-investigation.jpg
-│       └── urban-geophysical-investigation.jpg
-├── package.json
-├── wrangler.jsonc
-├── .gitignore
-├── README.md
-└── .wrangler/
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=public/index.html" />
+    <title>GeoScan Engineering</title>
+  </head>
+  <body>
+    Redirecting to the GeoScan website homepage...
+  </body>
+</html>
