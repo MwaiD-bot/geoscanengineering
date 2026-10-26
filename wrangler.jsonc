@@ -1,5 +1,7 @@
 {
-  "name": "geoscan-engineering",
-  "compatibility_date": "2025-01-01",
-  "pages_build_output_dir": "public"
+  "name": "geoscanengineering",
+  "compatibility_date": "2026-10-26",
+  "assets": {
+    "directory": "./"
+  }
 }
