@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#dfeef4"/>
+  <rect y="640" width="1200" height="260" fill="#667f4f"/>
+  <g>
+    <rect x="120" y="290" width="240" height="180" rx="14" fill="#d0d5d8"/>
+    <rect x="180" y="210" width="120" height="150" fill="#c9d8d8"/>
+    <rect x="900" y="260" width="170" height="200" rx="12" fill="#d9e8ef"/>
+    <path d="M170 220 L220 150 L290 220" fill="#7d9381"/>
+  </g>
+  <g transform="translate(320 180)">
+    <rect x="0" y="260" width="500" height="250" rx="12" fill="#172f45"/>
+    <rect x="70" y="120" width="360" height="170" fill="#dfe9ea"/>
+    <rect x="110" y="160" width="200" height="95" fill="#93d7d1"/>
+    <rect x="330" y="160" width="80" height="95" fill="#d6eef0"/>
+    <circle cx="220" cy="115" r="40" fill="#d8b28b"/>
+    <path d="M170 150 L270 150 L310 240 L130 240 Z" fill="#273c4c"/>
+    <path d="M92 280 L420 280" stroke="#dfe9ea" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <text x="600" y="820" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#143746">Drilling Rig Site Operations</text>
+</svg>

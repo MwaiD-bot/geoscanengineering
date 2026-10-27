@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#dfeef4"/>
+  <rect y="620" width="1200" height="280" fill="#617d4c"/>
+  <g transform="translate(180 180)">
+    <path d="M0 360 L240 160 L420 360 Z" fill="#88a57a"/>
+    <path d="M330 360 L610 160 L770 360 Z" fill="#7f9f6e"/>
+    <path d="M650 360 L890 180 L1040 360 Z" fill="#90ae82"/>
+  </g>
+  <g transform="translate(430 210)">
+    <rect x="0" y="300" width="320" height="180" rx="12" fill="#1d3a4c"/>
+    <rect x="40" y="150" width="240" height="170" rx="12" fill="#edf5f5"/>
+    <circle cx="160" cy="120" r="44" fill="#d7b086"/>
+    <path d="M90 260 L230 260" stroke="#2d5d6b" stroke-width="12" stroke-linecap="round"/>
+    <rect x="110" y="190" width="100" height="60" fill="#86d3d1"/>
+  </g>
+  <text x="600" y="820" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#123d4b">Outcrop Geological Mapping</text>
+</svg>

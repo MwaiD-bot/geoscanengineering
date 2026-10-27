@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#dfeef4"/>
+  <rect y="630" width="1200" height="270" fill="#657f4c"/>
+  <g>
+    <path d="M160 600 L1040 600" stroke="#d5d9bc" stroke-width="18" stroke-linecap="round"/>
+    <path d="M260 600 L380 240 L450 240 L560 600" fill="#d5d9bc" opacity="0.75"/>
+    <path d="M660 600 L760 280 L860 280 L940 600" fill="#d7dec6" opacity="0.75"/>
+  </g>
+  <g transform="translate(330 170)">
+    <rect x="0" y="250" width="500" height="220" rx="12" fill="#1c3d53"/>
+    <rect x="80" y="120" width="340" height="160" rx="12" fill="#edf5f4"/>
+    <circle cx="200" cy="175" r="42" fill="#89d6cf"/>
+    <rect x="290" y="138" width="90" height="120" fill="#d3eaf0"/>
+    <path d="M100 290 L430 290" stroke="#edf5f4" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <text x="600" y="820" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#123b4b">Rock Hammer Field Geology</text>
+</svg>

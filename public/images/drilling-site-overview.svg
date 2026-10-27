@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#dfeaf4"/>
+  <rect y="630" width="1200" height="270" fill="#5e7e4d"/>
+  <g transform="translate(150 150)">
+    <rect x="90" y="300" width="460" height="220" rx="12" fill="#d0dfe5"/>
+    <rect x="220" y="90" width="230" height="240" rx="14" fill="#112e47"/>
+    <rect x="260" y="135" width="150" height="120" fill="#dfeaf3"/>
+    <circle cx="335" cy="195" r="38" fill="#67d2d0"/>
+    <path d="M210 300 L470 300" stroke="#1b3248" stroke-width="12" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(760 220)">
+    <rect x="0" y="260" width="200" height="220" rx="10" fill="#d6e3df"/>
+    <circle cx="100" cy="115" r="62" fill="#d7b58b"/>
+    <rect x="55" y="175" width="90" height="110" fill="#bfd5d6"/>
+  </g>
+  <g opacity="0.7">
+    <path d="M620 520 L850 520" stroke="#edf2eb" stroke-width="20" stroke-linecap="round"/>
+    <path d="M670 520 L735 700" stroke="#edf2eb" stroke-width="16" stroke-linecap="round"/>
+    <path d="M790 520 L850 700" stroke="#edf2eb" stroke-width="16" stroke-linecap="round"/>
+  </g>
+  <text x="600" y="825" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#14364a">Drilling Site Overview</text>
+</svg>

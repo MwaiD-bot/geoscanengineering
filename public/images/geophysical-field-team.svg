@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#dfeee7"/>
+  <rect y="620" width="1200" height="280" fill="#617d4f"/>
+  <g opacity="0.9">
+    <path d="M150 620 L420 620 L350 470 L220 470 Z" fill="#8daf7d"/>
+    <path d="M760 620 L1040 620 L980 470 L800 470 Z" fill="#8daf7d"/>
+  </g>
+  <g transform="translate(330 160)">
+    <rect x="0" y="250" width="560" height="250" rx="16" fill="#213a4d"/>
+    <rect x="70" y="95" width="400" height="170" rx="18" fill="#e7f2f2"/>
+    <rect x="100" y="120" width="160" height="120" rx="10" fill="#99d8d4"/>
+    <rect x="280" y="120" width="150" height="120" rx="10" fill="#dfece7"/>
+    <rect x="120" y="265" width="340" height="90" fill="#dfece7"/>
+    <circle cx="180" cy="160" r="31" fill="#27787d"/>
+    <circle cx="340" cy="170" r="35" fill="#1d6f74"/>
+    <path d="M180 310 L410 310" stroke="#204a52" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(250 550)">
+    <rect x="50" y="70" width="160" height="70" rx="12" fill="#f0cf6a"/>
+    <rect x="210" y="50" width="130" height="90" rx="12" fill="#f0cf6a"/>
+    <rect x="360" y="65" width="150" height="75" rx="12" fill="#f0cf6a"/>
+  </g>
+  <text x="600" y="820" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#12364a">Field Team & Equipment</text>
+</svg>

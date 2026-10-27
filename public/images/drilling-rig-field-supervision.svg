@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#dfeef6"/>
+  <rect y="620" width="1200" height="280" fill="#6b7e54"/>
+  <g transform="translate(140 160)">
+    <rect x="80" y="240" width="440" height="240" rx="12" fill="#1d465b"/>
+    <rect x="120" y="110" width="350" height="150" rx="16" fill="#dfe8e8"/>
+    <circle cx="250" cy="165" r="38" fill="#7cdbcf"/>
+    <rect x="330" y="120" width="100" height="110" fill="#c5e4e8"/>
+    <path d="M160 275 L470 275" stroke="#f0f5f3" stroke-width="12" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(690 220)">
+    <rect x="0" y="260" width="230" height="250" rx="12" fill="#d9e5e4"/>
+    <circle cx="118" cy="132" r="72" fill="#d9b68d"/>
+    <rect x="46" y="200" width="146" height="92" fill="#cfdfd9"/>
+    <path d="M35 220 L200 220" stroke="#394e5c" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="780" cy="140" r="20" fill="#7fb6b8"/>
+    <path d="M730 210 L820 210" stroke="#86c0be" stroke-width="10" stroke-linecap="round"/>
+    <path d="M760 210 L720 300" stroke="#86c0be" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <text x="600" y="820" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#103f4d">Drilling Rig Field Supervision</text>
+</svg>

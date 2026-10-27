@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#dfeef4"/>
+  <rect y="630" width="1200" height="270" fill="#6f8359"/>
+  <g transform="translate(320 180)">
+    <rect x="0" y="260" width="560" height="220" rx="12" fill="#1d3a4c"/>
+    <rect x="80" y="120" width="400" height="150" rx="15" fill="#edf3f1"/>
+    <circle cx="215" cy="160" r="34" fill="#7bd4d2"/>
+    <rect x="290" y="130" width="130" height="100" fill="#ccdfe3"/>
+    <rect x="110" y="290" width="330" height="70" fill="#edf3f1"/>
+  </g>
+  <g transform="translate(140 240)">
+    <circle cx="0" cy="0" r="70" fill="#d9b893"/>
+    <path d="M-40 65 L55 65 L90 180 L-80 180 Z" fill="#1b3d4d"/>
+  </g>
+  <g transform="translate(960 250)">
+    <circle cx="0" cy="0" r="70" fill="#dab58a"/>
+    <path d="M-30 70 L35 70 L78 170 L-72 170 Z" fill="#1b3d4d"/>
+  </g>
+  <text x="600" y="820" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#14374c">Rock Testing Laboratory</text>
+</svg>

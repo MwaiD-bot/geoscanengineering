@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#c9e8f3"/>
+      <stop offset="100%" stop-color="#d9ebc8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#sky)"/>
+  <rect y="640" width="1200" height="260" fill="#5d7b4e"/>
+  <g transform="translate(120 150)">
+    <rect x="210" y="270" width="160" height="260" fill="#1d4964"/>
+    <rect x="230" y="220" width="120" height="120" fill="#dfe9ea"/>
+    <circle cx="290" cy="170" r="52" fill="#d9b28c"/>
+    <path d="M260 170 L320 170 L346 245 L232 245 Z" fill="#0b1d2a"/>
+    <rect x="120" y="330" width="130" height="180" rx="12" fill="#a0b9d1"/>
+    <rect x="390" y="320" width="150" height="190" rx="12" fill="#a0b9d1"/>
+  </g>
+  <g transform="translate(620 160)">
+    <rect x="0" y="280" width="280" height="260" rx="14" fill="#1f3f51"/>
+    <rect x="30" y="120" width="220" height="180" rx="12" fill="#dfeef0"/>
+    <circle cx="140" cy="80" r="48" fill="#daab7d"/>
+    <rect x="85" y="150" width="110" height="110" fill="#8bbad0"/>
+    <path d="M45 130 L245 130" stroke="#365b66" stroke-width="12" stroke-linecap="round"/>
+  </g>
+  <text x="600" y="820" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#153d48">Drilling Team Fieldwork</text>
+</svg>

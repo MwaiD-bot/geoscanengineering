@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#e8f0dd"/>
+  <rect y="620" width="1200" height="280" fill="#637d48"/>
+  <g transform="translate(200 120)">
+    <rect x="0" y="370" width="820" height="180" fill="#8ea77d" opacity="0.8"/>
+    <path d="M60 360 L240 180 L350 360 Z" fill="#8bac7b"/>
+    <path d="M400 360 L620 180 L760 360 Z" fill="#7d9872"/>
+  </g>
+  <g transform="translate(420 230)">
+    <rect x="0" y="260" width="360" height="230" rx="12" fill="#223c4c"/>
+    <rect x="60" y="120" width="240" height="170" fill="#edf5f4"/>
+    <circle cx="180" cy="80" r="52" fill="#d9b08b"/>
+    <path d="M120 146 L240 146" stroke="#345a68" stroke-width="12" stroke-linecap="round"/>
+    <rect x="120" y="170" width="120" height="90" fill="#8ad9d7"/>
+  </g>
+  <text x="600" y="820" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" font-weight="700" fill="#123d4c">Rock Outcrop Assessment</text>
+</svg>
